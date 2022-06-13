@@ -20,7 +20,6 @@ def speak(msg):
 cap = cv2.VideoCapture(0)
 
 # Curl counter variables
-counter = 0 
 stage = None
 
 i = 0
